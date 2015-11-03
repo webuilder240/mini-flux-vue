@@ -1,12 +1,12 @@
 {
-  "name": "mini-flux",
+  "name": "mini-flux-vue",
   "repository": {
     "type": "git",
     "url": "https://github.com/webuilder240/mini-flux-vue.git"
   },
-  "author": "azu",
+  "author": "takuya nisho",
   "email": "littlecub240@gmail.com",
-  "homepage": "https://github.com/azu/mini-flux",
+  "homepage": "https://github.com/webuilder240/mini-flux-vue",
   "license": "MIT",
   "version": "1.0.0",
   "description": "mini flux DEMO vue.js",
