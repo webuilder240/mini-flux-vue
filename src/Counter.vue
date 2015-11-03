@@ -32,6 +32,7 @@
         action.countUp(this.count + 1);
       },
       _onChange (){
+        console.trace();
         this.count = store.getCount();
       }
     }
